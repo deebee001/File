@@ -1,0 +1,6 @@
+{
+  "name": "Locked File Generator",
+  "description": "Create custom files of any required size up to 5 GB, lock them inside a password-protected encrypted ZIP archive, and share direct download links with others.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

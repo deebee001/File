@@ -1,0 +1,58 @@
+[
+  {
+    "id": "welcome-kit",
+    "title": "Welcome Documentation & Sample Assets",
+    "originalFileName": "welcome-sample-assets.zip",
+    "originalFormat": "zip",
+    "compressedSize": 773,
+    "uncompressedSize": 1841,
+    "ratio": 58,
+    "fileCount": 3,
+    "createdAt": "2026-09-11T13:13:06.958Z",
+    "uploaderName": "System",
+    "description": "Pre-loaded demonstration package showing extracted markdown, JSON data, and vector graphics.",
+    "downloadCount": 15,
+    "files": [
+      {
+        "id": "04c6e90faa",
+        "name": "README.md",
+        "relativePath": "README.md",
+        "size": 713,
+        "mimeType": "text/markdown",
+        "isText": true,
+        "isImage": false,
+        "isCode": false,
+        "isPdf": false,
+        "downloadUrl": "/api/download/welcome-kit/04c6e90faa",
+        "previewUrl": "/api/preview/welcome-kit/04c6e90faa"
+      },
+      {
+        "id": "4b1eb3dc48",
+        "name": "manifest.json",
+        "relativePath": "manifest.json",
+        "size": 264,
+        "mimeType": "application/json",
+        "isText": false,
+        "isImage": false,
+        "isCode": true,
+        "isPdf": false,
+        "downloadUrl": "/api/download/welcome-kit/4b1eb3dc48",
+        "previewUrl": "/api/preview/welcome-kit/4b1eb3dc48"
+      },
+      {
+        "id": "f68ba15e03",
+        "name": "preview-badge.svg",
+        "relativePath": "preview-badge.svg",
+        "size": 864,
+        "mimeType": "image/svg+xml",
+        "isText": false,
+        "isImage": true,
+        "isCode": false,
+        "isPdf": false,
+        "downloadUrl": "/api/download/welcome-kit/f68ba15e03",
+        "previewUrl": "/api/preview/welcome-kit/f68ba15e03"
+      }
+    ],
+    "deleteKey": "system-demo-key"
+  }
+]
